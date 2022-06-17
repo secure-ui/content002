@@ -1,9 +1,9 @@
 
-
-p {
-margin-left: 70px;
+p{
+text-align: center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:18px;
+color: red;
 font-weight: bold;
-  font-size:300px
-    text-align:center
-    
 }
+
